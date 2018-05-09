@@ -33,7 +33,8 @@ A compilation of coding challenges that are particularly insightful or interesti
 * Reverse a sentence and words  
 * Check if is palindrome  
 * Check if valid parens 
-* Is valid decimal representation (regex)
+* Is valid decimal representation (regex)  
+* Reverse sentence and words and respect casing
 #### File I/O  
 * Parse CSV
 * Parse CSV and respect quotes
