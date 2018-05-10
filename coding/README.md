@@ -26,8 +26,17 @@ A compilation of coding challenges that are particularly insightful or interesti
 * Set bit 
 #### Array Manipulation  
 * Sort array (above)  
+* Rotate array
+* Window averages
 * Reverse array  
 * Rotate matrix
+* Sort matrix by columns  
+* Find duplicates
+* Remove duplicates
+* Pairs sum to k
+* 3 pairs sum to k
+* Max difference
+* Max sum subarray
 #### String Parsing/Manipulation
 * Reverse a string
 * Reverse a sentence and words  
